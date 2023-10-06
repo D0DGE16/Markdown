@@ -22,6 +22,11 @@ L'iut d'Aix Marseille propose au totale 111 formation professionnalisantes dans 
   
   _- Sécurité Energie Aménagement Construcion_
 
+  Mais ne forme pas dans ces diplomes :
+  _-~~BTS~~
+  _-~~Médecine~~
+  _-~~~~
+  _-~~~~
 
 
 - **License professionel (Bac + 1)** et                                                  
