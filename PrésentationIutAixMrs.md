@@ -1,5 +1,5 @@
 
-![alt text]()
+![Sans titre](https://github.com/D0DGE16/Markdown/assets/146066937/de6569d4-4507-4b14-859c-7dccb74b785b)
 
 
 
@@ -7,17 +7,10 @@
 
 
 
-
-
-
-# Présentation de L'iut d'Aix-Marseille en markdown
+# Présentation de L'iut d'Aix-Marseille en Markdown
 ---
-L'iut d'Aix-Marseille est implantée dans plus de 7 villes faisants partis de l'Académie d'Aix-Marseille.
-
-
-
-
-L'iut d'Aix Marseille propose au totale 111 formation professionnalisantes dans plusieurs domaine techniques : 
+L'iut d'Aix-Marseille est implantée dans plus de 7 villes faisants partis de l'Académie d'Aix-Marseille,
+et propose au totale 111 formation professionnalisantes dans plusieurs domaine techniques : 
 
 
 **[Bachelor universitaire de technologie](https://iut.univ-amu.fr/fr/formations/bachelor-universitaire-de-technologie) (Bac + 3)**
@@ -76,5 +69,5 @@ La vie étudiante a L'iut c'est :
 
 - [x] Venir au [portes ouvertes](https://www.univ-amu.fr/fr/public/journees-portes-ouvertes) qui se passeront le Samedi 10 et Mercredi 14 Février 2024
 
-Site web de [l'Iut d'Aix-Marseille](https://iut.univ-amu.fr/fr)
+> Site web de [l'Iut d'Aix-Marseille](https://iut.univ-amu.fr/fr)
 
