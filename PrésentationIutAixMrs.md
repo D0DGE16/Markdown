@@ -58,7 +58,7 @@ Mais ne proposent aucunes de ces formations/diplomes :
 ## Et la vie étudiante dans tout çela ?
 
 La vie étudiante a L'iut c'est : 
-- Faire partis d'un groupe solide bassée sur le travail, la confiance et l'entraide
+- Faire partis d'un groupe solidaire régnant sur le travail, la confiance et l'entraide
 - De nombreuses soirées étudiantes organiser par ton BDE<sub>(Bureau Des Etudiants)</sub>
 - Une période trés importante dans ta vie de jeune adulte
 - De nombreuse associations universitaires
