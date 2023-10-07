@@ -44,16 +44,23 @@ L'iut d'Aix Marseille propose au totale 111 formation professionnalisantes dans 
 
 - *CQP Opérateur de Fabrications des Industries Chimiques* 
 
-  Mais ne proposent aucunes de ces formations/diplomes :
-  - -~~BTS~~
-  - -~~Politique~~
-  - -~~Droit~~
-  - -~~Arts et musique~~
+Mais ne proposent aucunes de ces formations/diplomes :
+- -~~BTS~~
+- -~~Politique~~
+- -~~Droit~~
+- -~~Arts et musique~~
 
-La vie étudiante a L'iut 
+## Et la vie étudiante dans tout çela ?
+
+La vie étudiante a L'iut c'est : 
+- Faire partis d'un groupe solide bassée sur le travail, la confiance et l'entraide
+- De nombreuses soirées étudiantes organiser par ton BDE<sub>(Bureau Des Etudiants)</sub>
+- Une période trés importante dans ta vie de jeune adulte
+- De nombreuse associations universitaires
+- ...
 
 
-## Ce qu'il vous reste a faire :
+### Ce qu'il vous reste a faire :
 
 - [x] Venir au [portes ouvertes](https://www.univ-amu.fr/fr/public/journees-portes-ouvertes) qui se passeront le Samedi 10 et Mercredi 14 Février 2024
 
