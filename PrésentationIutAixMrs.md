@@ -16,7 +16,7 @@ et propose au totale 111 formation professionnalisantes dans plusieurs domaine t
 
 **[Bachelor universitaire de technologie](https://iut.univ-amu.fr/fr/formations/bachelor-universitaire-de-technologie) (Bac + 3)**
  
- 5 diplômes proposés : caca
+ 5 diplômes proposés : 
  
  - *Électronique Informatique Mécanique Physique*_
   
