@@ -18,15 +18,15 @@ et propose au totale 111 formation professionnalisantes dans plusieurs domaine t
  
  5 diplômes proposés : 
  
- - *Électronique Informatique Mécanique Physique*_
+ - *Électronique Informatique Mécanique Physique*
   
- - *Chimie Biologie Aménagement construction*_
+ - *Chimie Biologie Aménagement construction*
   
- - *Métiers du livre Multimédia*_
+ - *Métiers du livre Multimédia*
   
- - *Gestion Commerce Marketing Logistique*_
+ - *Gestion Commerce Marketing Logistique*
   
- - *Sécurité Energie Aménagement Construcion*_
+ - *Sécurité Energie Aménagement Construcion*
 
 **[License professionel](https://iut.univ-amu.fr/fr/formations/licences-professionnelles-desu) (Bac + 1)** et                                                  
 **Diplôme d'Etudes Supérieures d'Université (18 mois)** [<sup>DESU</sup>](https://iut.univ-amu.fr/fr/formations/licences-professionnelles-desu)
